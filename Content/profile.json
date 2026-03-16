@@ -1,37 +1,37 @@
 {
-"About": {
-  "Name": "Robert J Zendejo",
-  "Currently": "Computer Science Student",
-  "Headshot": "student-portrait.png",
-  "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Bob Zendejo. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
-},
-"Contact": {
-  "EMail": "zendejor@spu.edu",
-  "Phone": "(206) 555-5555",
-  "Portfolio": "https://www.github.com",
-  "LinkedIn": "https://linkedin.com",
-  "GitHub": "https://www.github.com"
-},
-"Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
-  "School": "Seattle Pacific University",
-  "Major": "Computer Science",
-  "Graduation": "June 2023",
-  "EducationText": "Use this to add some narrative to your education section",
-  "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
-  "Resume": "student-resume.pdf"  
-},
-"Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+  "About": {
+    "Name": "Jacques Ilunga",
+    "Currently": "General Engineering Student",
+    "Headshot": "Picture of Jacques.jpeg",
+    "Thumbnail": "student-logo.webp",
+    "AboutText": "Hi, I'm Jacques Ilunga. I'm a Junior at Seattle Pacific University studying General Engineering with a focus on Robotics and Data Analytics. I’ve always been drawn to how things work, and I spend most of my time at the intersection of building physical hardware and figuring out the data that makes it smart. I’m a big fan of the hands-on side of engineering—I'd much rather be in the lab prototyping a new circuit than just reading about it in a textbook. I thrive in collaborative spaces where I can bounce ideas off other people and solve complex problems as a team. When I’m not in the engineering lab, you can usually find me at the gym or out exploring new spots around Seattle. I’m currently looking for a Summer 2026 internship where I can get some real-world experience in robotics or aerospace and keep building my skills."
+  },
+  "Contact": {
+    "EMail": "ilungaj@spu.edu",
+    "Phone": "(425) 864-1195",
+    "Portfolio": "https://fabilus1.github.io/index.html",
+    "LinkedIn": "https://www.linkedin.com/in/jacques-ilunga-a9a03b258/",
+    "GitHub": "https://github.com/fabilus1"
+  },
+  "Experience": {
+    "ExperienceText": "I started my journey exploring the world of robotics through an electrical engineering lens. Currently, I'm focusing on balancing rigorous coursework with hands-on lab work to build a solid foundation for a career in aerospace and manufacturing.",
+    "School": "Seattle Pacific University",
+    "Major": "General Engineering | Robotics",
+    "Graduation": "June 2027",
+    "EducationText": "Currently a Junior at SPU, I'm diving deep into Robotics and Data Analytics. My favorite projects so far involve bridging the gap between theoretical math and physical circuit prototyping.",
+    "Employment": "",
+    "Role": "",
+    "EmploymentText": "",
+    "Skills": ["MATLAB", "C++", "Circuit Design", "Data Analytics", "SolidWorks"],
+    "SkillsText": "I'm most comfortable at the intersection of hardware and software—whether that’s analyzing data trends or soldering a new prototype on a breadboard.",
+    "Resume": "resume for engineering internships.pdf"
+  },
+  "Project1": {
+    "Title": "Sallen-Key Bandpass Filter",
+    "Desc": "For this project, I designed and prototyped a dual-stage active bandpass filter targeting a 10kHz center frequency with a Quality Factor (Q) of 4. Using LTSpice for initial simulation and Bode plot analysis, I verified the frequency response before moving to a physical breadboard prototype. This project involved precise component selection—calculating specific resistor and capacitor values to maintain system stability and gain accuracy across both stages.",
+    "GitHubRepo": "https://github.com/fabilus1",
+    "MainImage": "bandpass-breadboard.jpeg",
+    "DetailImages": ["LTSPICE bandpass 1.jpg", "LTSPICE bandpass 2.png", "design calculations.png"]
   },
   "Project2": {
     "Title": "Interesting Project 2",
